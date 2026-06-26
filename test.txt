@@ -5,3 +5,5 @@ hello!!
 New New  hello!
 Fourth edit!
 New feature added!
+Hey we fixed the bug !
+Cool feature added.
